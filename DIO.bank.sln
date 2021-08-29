@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.bank", "DIO.bank\DIO.bank.csproj", "{B70A7ECE-1495-4593-9419-3BE7F5714055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70A7ECE-1495-4593-9419-3BE7F5714055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70A7ECE-1495-4593-9419-3BE7F5714055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70A7ECE-1495-4593-9419-3BE7F5714055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70A7ECE-1495-4593-9419-3BE7F5714055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
